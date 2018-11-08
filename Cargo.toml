@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Hibikine Kage <goodsmile314159@gmail.com>"]
 
 [dependencies]
+serenity = "0.5"
+dotenv = "0.13.0"
